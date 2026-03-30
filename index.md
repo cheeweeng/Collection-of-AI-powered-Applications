@@ -5,5 +5,9 @@ This is a comprehensive [AI-powered Training Simulator](https://cheeweeng.github
 
 The [NLB Procurement AI Assistant](https://cheeweeng.github.io/NLB-Procurement-AI-Assistant/) is an AI-powered platform designed for the **National Library Board (NLB) of Singapore** to streamline procurement drafting, review, and compliance checking in accordance with government standards.
 
+## Razer RMA Sentinel 🐍
+[Razer RMA Sentinel](https://cheeweeng.github.io/Razer-RMA-Sentinel/) is a high-performance analytics dashboard and AI-powered prototype designed for Quality Assurance (QA) and Product Engineering teams. Built using Google AI Studio, this application provides a comprehensive suite of tools to monitor defect trends, analyze Return Merchandise Authorization (RMA) data, and measure the real-world impact of product improvements.
+
+
 ## InvoicelyticsAI 📊
 [InvoicelyticsAI](https://cheeweeng.github.io/Invoicelytics-AI/) is a modern, intelligent document processing app designed to streamline invoice management. By leveraging the power of AI, it automatically extracts structured data from unstructured invoice documents (PDFs and images) and transforms them into actionable business insights through a professional managerial dashboard.
