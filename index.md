@@ -1,3 +1,6 @@
+## [RAG Chatbot (Streamlit + LangGraph)](https://cheeweeng.github.io/engagepro-chatbot/)  
+An interactive chatbot developed as part of the end-of-course project for Large Language Model Applications (LLMA) module of Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic School of InfoComm Technology. The project also demonstrates several modern AI engineering concepts, including prompt engineering, semantic search, vector databases, workflow orchestration, and modular software design.
+
 ## [🤖 AI-powered Training Simulator](https://cheeweeng.github.io/CSC-CSO-Training-Simulator/)  
 This is a comprehensive [AI-powered Training Simulator](https://cheeweeng.github.io/CSC-CSO-Training-Simulator/) designed for the **Civil Service College (CSC) Singapore**. This simulator enables Customer Service Officers (CSOs) to practice and refine their email response skills in a safe, controlled environment with real-time AI evaluation and feedback.
 
